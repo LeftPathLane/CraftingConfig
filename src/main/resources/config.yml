@@ -1,0 +1,30 @@
+recipes:
+  hopperminecart:
+    result: hopper_minecart
+    shape:
+      - "   "
+      - "IHI"
+      - "III"
+    shapekeys:
+      I: iron_ingot
+      H: hopper
+  chestminecart:
+    result: chest_minecart
+    shape:
+      - "   "
+      - "IHI"
+      - "III"
+    shapekeys:
+      I: iron_ingot
+      H: chest
+  dispenser:
+    result: dispenser
+    shape:
+      - " WS"
+      - "WDS"
+      - " WS"
+    shapekeys:
+      W: stick
+      S: string
+      D: dropper
+  

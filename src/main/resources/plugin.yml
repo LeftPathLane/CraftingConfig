@@ -1,0 +1,5 @@
+name: CraftingConfig
+main: com.github.leftpathlane.craftingconfig.Plugin
+version: 1.0
+api-version: 1.15
+author: LeftPathLane
